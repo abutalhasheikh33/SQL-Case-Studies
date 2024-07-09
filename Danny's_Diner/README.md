@@ -14,7 +14,7 @@ Danny has shared with you 3 key datasets for this case study:
 
 You can inspect the entity relationship diagram and example data below.
 
-![alt text](image.png)
+![alt text](er_diagram.png)
 
 [Download data.sql](./data.sql)
 
